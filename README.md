@@ -2,7 +2,7 @@
 
 This is a JavaScript wrapper class example for the ZeroBounce API v1.
 
-Please use Version 2: https://github.com/zerobounce/zerobounce-javascript-api-v2
+Please use version 2: https://github.com/zerobounce/zerobounce-javascript-api-v2
 
 ##### Example usage:
 
