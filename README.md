@@ -1,7 +1,8 @@
-[ZeroBounce](https://www.zerobounce.net>) JavaScript API
+[ZeroBounce](https://www.zerobounce.net>) JavaScript API v1
 
+This is a JavaScript wrapper class example for the ZeroBounce API v1.
 
-This is a JavaScript wrapper class example for the ZeroBounce API.
+Please use Version 2: https://github.com/zerobounce/zerobounce-javascript-api-v2
 
 ##### Example usage:
 
